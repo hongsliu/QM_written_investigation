@@ -1,7 +1,7 @@
 # QM_written_investigation
 This is the repository of the written investigation in quantitative methods module. Main work is included in the 'code' jupyter notebook and data are stored in two csv files. 
 
-List of the 147 countries:
+List of the 147 countries:<br/>
  Algeria,
  Angola,
  Argentina,
@@ -149,3 +149,25 @@ List of the 147 countries:
  Viet Nam,
  Zambia,
  Zimbabwe
+
+List of 20 selected developed countries and their abbreviations:<br/>
+ Australia (AUS), 
+ Austria (AUT), 
+ Belgium (BEL), 
+ Canada (CAN), 
+ Denmark (DNK), 
+ Finland (FIN), 
+ France (FRA), 
+ Germany (DEU), 
+ Greece (GRC), 
+ Israel (ISR), 
+ Italy (ITA), 
+ Japan (JPN), 
+ Luxembourg (LUX), 
+ Netherlands (NLD), 
+ Norway (NOR), 
+ Portugal (PRT), 
+ Spain (ESP), 
+ Sweden (SWE), 
+ United Kingdom (USA), 
+ United States (USA), 
